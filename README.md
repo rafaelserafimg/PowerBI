@@ -1,7 +1,8 @@
 # PowerBI
- Projetos em Power BI
+Projetos em Power BI
 
- Habilidades adquiridas
+Habilidades adquiridas
+
 
 *Desempenho-Comercial*
 
@@ -15,6 +16,7 @@
 - Visualizações interativas
 - Análise de vendas e lucro
 - Estrutura de projeto PBIP
+
 
 *Relatório-Vendas*
 
